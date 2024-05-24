@@ -10119,3 +10119,9 @@ span.select2-selection.select2-selection--single:focus {
 .fishing-methods{
   min-height: 288px!important;
 }
+
+.counter-bg{
+  margin-top: -30px;
+  margin-bottom: -15px;
+  z-index: 2;
+}
